@@ -1,6 +1,6 @@
 # TRD - Todo App (초안)
 
-> 원본: docs/PRD.md, docs/CLAUDE.md
+> 원본: docs/PRD.md, CLAUDE.md
 > 상태: 초안. "미정" 표시 항목은 결정 후 갱신한다.
 
 ## 1. 기술 스택과 선택 이유
